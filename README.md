@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavannaraharisetty
 - 👀 I’m interested in Machine learning , Deep learning,data science. Loves playing with data 
-- 🌱 I’m currently learning deep learnign
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on machine learning ,deep learning ,data science
 - 📫 How to reach me pavan.naraharisetty.98@gmail.com
 
